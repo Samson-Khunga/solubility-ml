@@ -1,6 +1,6 @@
 # ML-Accelerated Drug Solubility Prediction
 
-Author: Samson Khunga
+Author: Samson Khunga  
 Status: Work in progress
 
 ## Project Overview
